@@ -1,0 +1,45 @@
+{
+  "title": "00 Test Book 1",
+  "authors": [
+    {
+      "name": "Mark M",
+      "url": "https://github.com/markm208"
+    }
+  ],
+  "aiApiUrl": null,
+  "chapters": [
+    {
+      "title": "Chapter 1",
+      "playbacks": [
+        {
+          "title": "Test v1",
+          "slug": "test-v1",
+          "authors": [
+            {
+              "name": "Mark M",
+              "url": "https://github.com/markm208"
+            },
+            {
+              "name": "Mark Mahoney",
+              "url": "mailto:mmahoney@carthage.edu"
+            }
+          ]
+        },
+        {
+          "title": "Test v2",
+          "slug": "test-v2",
+          "authors": [
+            {
+              "name": "Mark M",
+              "url": "https://github.com/markm208"
+            },
+            {
+              "name": "Mark Mahoney",
+              "url": "mailto:mmahoney@carthage.edu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
